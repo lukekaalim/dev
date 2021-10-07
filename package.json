@@ -1,0 +1,21 @@
+{
+  "name": "@lukekaalim/dev",
+  "private": true,
+  "description": "A collection of dev tools used by Luke Kaalim",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukekaalim/dev.git"
+  },
+  "author": "Luke Kaalim (lukekaalim@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukekaalim/dev/issues"
+  },
+  "homepage": "https://github.com/lukekaalim/dev#readme",
+  "workspaces": [
+    "shelf"
+  ],
+  "devDependencies": {
+    "flow-bin": "^0.161.0"
+  }
+}

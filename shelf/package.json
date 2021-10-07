@@ -1,0 +1,23 @@
+{
+  "name": "@lukekaalim/shelf",
+  "version": "1.0.0",
+  "description": "A set of utilities for managing a npm workspace",
+  "main": "entry.js",
+  "type": "module",
+  "bin": {
+    "shelf": "entry.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukekaalim/dev.git"
+  },
+  "author": "Luke Kaalim (lukekaalim@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukekaalim/dev/issues"
+  },
+  "homepage": "https://github.com/lukekaalim/dev#readme"
+}
